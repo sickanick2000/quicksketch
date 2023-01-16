@@ -1,0 +1,22 @@
+body
+{
+    background-color: greenyellow;
+}
+
+#score
+{
+    font-size: 25px;
+    margin-left: 50px;
+}
+#timer
+{
+    font-size: 25px;
+    float: right;
+    margin-right: 50px;
+}
+
+#skettch
+{
+    color: red;
+    font-size: 25px;
+}
